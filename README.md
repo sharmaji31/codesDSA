@@ -1,1 +1,1 @@
-# codesDSA
+/practical.html/images.jpeg
